@@ -12,5 +12,5 @@
             $primesFound++;
         }
     }
-    echo "Total primes found: " . $primesFound . " between 1 and " . $max . ". Probable primes in this interval: " . $probablePrimes;
+    echo "Total de primos encontrados: " . $primesFound . " entre 1 e " . $max . ". Primos prováveis nesse intervalo: " . $probablePrimes;
 ?>
